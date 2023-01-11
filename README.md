@@ -1,6 +1,6 @@
 # Fintech Focus Project: A Guide to your Well-Being
 
-# Project Description
+## Project Description
 
 'A Guide to your Well-Being' is a full-stack web application that consists of multiple pages, detailing on exercise, nutrition, and mental health, and a Diet Calculator quiz. The front-end of the application was created using HTML, CSS, and Bootstrap, while Python and Flask were used to integrate the back-end portion (taught during the Fintech Focus Program). These technologies were used to provide an experience using languages commonly used by various financial institutions.  
 

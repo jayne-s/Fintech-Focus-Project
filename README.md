@@ -16,12 +16,12 @@ In the future, we would like to improve the application by:
 - Using a Geographic Information System to locate fitness centers and health clinics near the user. 
 - Creating a mobile friendly version of the application.
 
-# Installation
+## Installation
 
 The web application does not need any software to be installed to run. Simply paste the following link in a web browser to run the site:
 https://ultimate-guide-for-well-being.jaynesrinivas2.repl.co/
 
-# Using the Project
+## Using the Project
 
 Follow the pages using the navigation bar to explore nutrition, fitness, and mental health tips. Some considerations to keep in mind while using the website are:
 - Clicking anything that is part of the footer will simply direct you to the top of the page.
